@@ -1,0 +1,22 @@
+.resume {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .pdf-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .pdf-page {
+    width: 100%;
+    max-width: 1000px; /* Adjust as needed */
+    margin-bottom: 20px; /* Space between pages */
+    transform: rotate(0deg); /* Ensure the pages are not rotated */
+    /* You might need to add more styles here to ensure proper layout */
+  }
+  
