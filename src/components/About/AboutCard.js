@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Pankaj Sharma </span>
             from <span className="purple"> Jaipur, India.</span>
             <br />
-            I am currently employed as a software developer at Tata Consultancy Services.
+            I am currently employed as a frontend developer at Tata Consultancy Services.
             <br />
             I have completed Bachelor of technology in Computer Science & Engineering at GIT
             Jaipur.
