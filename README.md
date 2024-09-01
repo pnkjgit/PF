@@ -8,14 +8,6 @@
 
 <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-
-</center>
-
 ## Built With
 
 My personal portfolio <a href="https://pankajsportfolio.netlify.app/" target="_blank">pankaj.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
